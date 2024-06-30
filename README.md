@@ -5,5 +5,5 @@
 
 ## SETUP
 1. Clone and open this repository in VSCODE
-2. Run `main.java`
+2. Run `main.java` in `/src/code/` folder
 3. If the content in the terminal are all jumbled, right click terminal and click toggle size to content width
